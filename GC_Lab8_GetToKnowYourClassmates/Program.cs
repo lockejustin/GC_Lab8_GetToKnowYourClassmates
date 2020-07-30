@@ -24,7 +24,7 @@ namespace GC_Lab8_GetToKnowYourClassmates
                 
                 PrintClassList(classMembers);
 
-                index = ChooseStudent2(classMembers)-1;
+                index = ChooseStudent(classMembers)-1;
                     
                 if (index >= 0 && index < classMembers.Count)
                 {
@@ -76,13 +76,9 @@ namespace GC_Lab8_GetToKnowYourClassmates
             }
 
             if (response == "y")
-            {
                 return true;
-            }
             else
-            {
                 return false;
-            }
         }
 
         public static void PrintClassList(List<string> classMembers)
@@ -96,43 +92,7 @@ namespace GC_Lab8_GetToKnowYourClassmates
             int menuChoice = 0;
             string name = "";
             bool validChoice = false;
-
-            while (!validChoice)
-            {
-                try  //validates correct entry
-                {
-                    menuChoice = int.Parse(Console.ReadLine());
-                    try
-                    {
-                        name = classMembers[menuChoice - 1];
-                    }
-                    catch (ArgumentOutOfRangeException e1)
-                    {
-                        Console.WriteLine(e1 + "\nYour entry was not a number in the list.  Please enter a valid number from the list.");
-                        Console.WriteLine("Press any key to continue.");
-                        Console.ReadKey();
-                        Console.Clear();
-                    }
-                }
-                catch (FormatException e2)
-                {
-                    Console.WriteLine(e2 + "\nYour entry was not a number.  Please enter a valid number from the list.");
-                    Console.WriteLine("Press any key to continue.");
-                    Console.ReadKey();
-                    Console.Clear();
-                }
-                validChoice = true;
-            }
-            return (menuChoice);
-        }
-
-        public static int ChooseStudent2(List<string> classMembers)
-        {
-            int menuChoice = 0;
-            string name = "";
-            bool validChoice = false;
             string input = "";
-            bool NameMatch = false;
 
             while (!validChoice)
             {
@@ -167,7 +127,6 @@ namespace GC_Lab8_GetToKnowYourClassmates
                 {
                     for (int i = 0; i < classMembers.Count; i++)
                     {
-                        Console.WriteLine($"{input} = {classMembers[i]}?");
                         if (input == classMembers[i])
                         {
 
@@ -180,6 +139,7 @@ namespace GC_Lab8_GetToKnowYourClassmates
                     Console.WriteLine("Press any key to continue.");
                     Console.ReadKey();
                     Console.Clear();
+                    break;
                 }
 
                 
