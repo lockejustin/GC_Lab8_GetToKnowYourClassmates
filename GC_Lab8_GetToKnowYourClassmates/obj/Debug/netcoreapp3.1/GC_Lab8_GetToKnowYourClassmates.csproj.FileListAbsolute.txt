@@ -1,0 +1,13 @@
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.exe
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.deps.json
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.dll
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.pdb
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.dll
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.pdb
+C:\Users\Justin\source\repos\GC_Lab8_GetToKnowYourClassmates\GC_Lab8_GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GC_Lab8_GetToKnowYourClassmates.genruntimeconfig.cache
